@@ -1,3 +1,5 @@
 .idea*
 data/*
 sample-sales*
+notebooks/testing*
+__pycache__

@@ -2,3 +2,5 @@ kaggle
 polars
 pandas
 pyspark
+psutil
+matplotlib
